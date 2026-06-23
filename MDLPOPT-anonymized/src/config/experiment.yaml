@@ -1,0 +1,5 @@
+# Experiment-level settings
+name: example_experiment
+seed: 42
+checkpoint_dir: ../saved_models
+log_dir: ../logs

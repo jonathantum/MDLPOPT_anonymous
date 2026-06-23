@@ -1,0 +1,10 @@
+# Model config example
+model:
+  type: multimodal_transformer
+  params:
+    hidden_dim: 256
+    n_heads: 8
+    n_layers: 4
+training:
+  lr: 1e-4
+  weight_decay: 0.0

@@ -1,0 +1,6 @@
+# Dataset config example
+raw_clinical_dir: ../data/clinical_raw
+images_dir: ../data/images
+processed_metadata: ../data/processed/oai_metadata.parquet
+batch_size: 32
+num_workers: 4
